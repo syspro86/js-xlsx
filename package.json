@@ -1,0 +1,29 @@
+{
+  "name": "js-xlsx",
+  "version": "0.0.1",
+  "description": "Read and write xlsx files with javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syspro86/js-xlsx.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "excel",
+    "xlsx"
+  ],
+  "author": "syspro86",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syspro86/js-xlsx/issues"
+  },
+  "homepage": "https://github.com/syspro86/js-xlsx#readme",
+  "dependencies": {
+    "jszip": "^3.1.5",
+    "xml2js": "^0.4.19"
+  }
+}
